@@ -69,5 +69,7 @@ This is an over-simplification of calculating cost on a loan. There are many, ma
 If your test isn't passing, you can try `pytest -v`. 
 This will run pytest, but you will get more information like the names of the tests and what's being compared.
 
+If you get stuck trying to figure out the spacing for the numbers, [check out the `format()` method](https://www.w3schools.com/python/ref_string_format.asp).
+
 ## Test
 Once your code is finished, run `pytest` to see if the formatting matches!
